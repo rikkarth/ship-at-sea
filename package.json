@@ -1,0 +1,45 @@
+{
+    "name": "ship-at-sea",
+    "displayName": "Ship at Sea",
+    "description": "A high power, high contrast theme for Visual Studio Code.",
+    "version": "0.0.2",
+    "engines": {
+        "vscode": "^1.103.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark",
+        "ship",
+        "sea",
+        "ocean",
+        "sailor",
+        "sailing",
+        "nautical",
+        "high contrast",
+        "high power",
+        "matte black",
+        "black",
+        "hc",
+        "contrast"
+    ],
+    "publisher": "rikkarth",
+    "homepage": "https://rikkarth.com",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rikkarth/ship-at-sea.git"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ship at Sea",
+                "uiTheme": "vs-dark",
+                "path": "./themes/sailor-at-sea.json"
+            }
+        ]
+    },
+    "icon": "./assets/e88bd14d-94a3-4676-99c7-99b15a0d63aa.png",
+    "license": "MIT"
+}
