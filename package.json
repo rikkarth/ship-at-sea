@@ -2,7 +2,7 @@
     "name": "ship-at-sea",
     "displayName": "Ship at Sea",
     "description": "A high power, high contrast theme for Visual Studio Code.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.103.0"
     },
